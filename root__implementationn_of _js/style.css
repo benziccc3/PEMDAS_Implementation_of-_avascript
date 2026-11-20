@@ -1,0 +1,32 @@
+    
+    *{
+
+        background-color:aliceblue;
+        margin:0;
+        
+
+    }
+    
+    h1{
+
+        text-align:center;
+        color:chocolate;
+        background-color: rgb(92, 92, 101);
+        margin-bottom: 10px;
+    }
+    
+    
+     strong {
+
+        color:gold;
+        background-color: rgb(33, 31, 31); 
+        text-align:center;
+        padding:10px;
+
+    }
+
+    #biig_IInteger {
+
+     color:red;   
+     background-color: rgb(33, 31, 31); 
+    }
