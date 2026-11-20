@@ -18,3 +18,6 @@ alert(num01 % num02);
 
 //exponent
 alert(num01 ** num02); 
+
+//same answe but add the bigInt()
+      alert(BigInt(num01) ** BigInt(num02)); 
