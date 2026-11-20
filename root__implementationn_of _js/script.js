@@ -21,3 +21,9 @@ alert(num01 ** num02);
 
 //same answe but add the bigInt()
       alert(BigInt(num01) ** BigInt(num02)); 
+
+// DOM Method Call (o Selector Method)
+
+ let answer = BigInt(num01) ** BigInt(num02) ;
+
+document.getElementById("biig_IInteger").textContent = answer;      
